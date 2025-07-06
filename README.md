@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rihab Bettaieb</h1>
-<h3 align="center">A passionate full stack developer from Paris</h3>
+<h3 align="center">A passionate Data Analyst from Paris</h3>
 
 - 🔭 I’m currently working on **a personal marketplace**
 
-- 🌱 I’m currently learning **php, symfony**
+- 🐍 I'm currrently learning ** Tableau, NLP, Python for data analysis**
+
+- 🌱 I’ve finished learning **php, symfony**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rihab294](https://github.com/rihab294)
 
